@@ -1,13 +1,16 @@
-# Hi! I'm Ioanna 🙋‍♀
+# Hey there! I'm Ioanna 🙋‍♀
 
-🌐 A BSc Applied Informatics graduate, eager to practice and enrich my skills, gain new knowledge and collaborate with international teams.
+🌐 I'm a BSc Applied Informatics graduate, eager to apply and grow my skills through real-world projects, continuous learning and collaboration with international teams.
 
-## Skills
-- Programming: C#, Python, Java, C, SQL
-- Frameworks: .NET
-- Tools: Git, Docker, VS Code, Visual Paradigm, Camunda Modeler, Android Studio, Postman
+## 🛠️ Skills
 
+**Programming:** C#, Python, Java, C, SQL  
+**Frameworks:** .NET  
+**Tools & Technologies:** Git, Docker, VS Code, Visual Paradigm, Camunda Modeler, Android Studio, Postman
 
-💻 Currently training on C#, .Net framework and Machine Learning concepts. 
+## 💻 Currently Exploring
+- C# & .NET development
+- Machine Learning fundamentals
 
-📧 Reach me at ionpapadopoulou@hotmail.com
+## 📫 Contact Me
+📧 ionpapadopoulou@hotmail.com
