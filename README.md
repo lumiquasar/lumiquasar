@@ -5,7 +5,7 @@
 ## 🛠️ Skills
 
 **Programming:** C#, Python, Java, C, SQL  
-**Frameworks:** .NET, Selenium
+**Frameworks:** .NET, Selenium 
 **Tools & Technologies:** Git, Docker, VS Code, Visual Paradigm, Camunda Modeler, Android Studio, Postman
 
 ## 💻 Currently Exploring
