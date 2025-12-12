@@ -8,9 +8,10 @@
 
 **Frameworks:** .NET, Selenium
 
-**Tools & Technologies:** Git, Docker, VS Code, Visual Paradigm, Camunda Modeler, Android Studio, Postman
+**Tools & Technologies:** Make.com, Airtable, Zapier, Postman, Docker, VS Code, Visual Paradigm, Camunda Modeler, Android Studio,  Git,
 
 ## 💻 Currently Exploring
+- Automation
 - C# & .NET development
 - Machine Learning fundamentals
 
